@@ -65,6 +65,9 @@ Your application should now be running at `http://localhost:5173`.
 
 ---
 
+![Home Demo](./public/home-demo.png) 
+
+---
 ## About the Developer
 
 This project was created by **Seyed Ahmad Gholami**. I am passionate about web development, especially using tools like React and Next.js to create responsive and modern web applications.
