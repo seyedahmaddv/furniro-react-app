@@ -43,7 +43,7 @@ To set up and run this project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/seyedahmaddv/furniro-react-app.git
     ```
 
 2. Navigate to the project directory:
@@ -61,7 +61,7 @@ To set up and run this project locally:
     npm run dev
     ```
 
-Your application should now be running at `http://localhost:3000`.
+Your application should now be running at `http://localhost:5173`.
 
 ---
 
@@ -69,13 +69,13 @@ Your application should now be running at `http://localhost:3000`.
 
 This project was created by **Seyed Ahmad Gholami**. I am passionate about web development, especially using tools like React and Next.js to create responsive and modern web applications.
 
-**LinkedIn**: [Seyed Ahmad Gholami](https://www.linkedin.com/in/your-linkedin-url)
+**LinkedIn**: [Seyed Ahmad Gholami](https://www.linkedin.com/in/seyedahmaddv/)
 
 ---
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/your-repo-name/issues) to see open issues or submit your ideas.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/seyedahmaddv/furniro-react-app/issues) to see open issues or submit your ideas.
 
 ---
 
