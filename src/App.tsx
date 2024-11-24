@@ -6,10 +6,14 @@ import Products from './components/Products'
 import InspirationSection from './components/InspirationSection'
 import HashtagSection from './components/HashtagSection'
 import Footer from './components/Footer'
+import "./App.css"
+import DaisyTest from './DaisyTest'
 
 export default function App() {
   return (
-    <div>
+    <div >
+
+
       <Header />
       <HeroSection />
       <Categories />
@@ -17,6 +21,7 @@ export default function App() {
       <InspirationSection />
       <HashtagSection />
       <Footer />
+
     </div>
   )
 }
