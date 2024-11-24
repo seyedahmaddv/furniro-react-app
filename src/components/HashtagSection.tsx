@@ -14,24 +14,24 @@ export default function HashtagSection() {
     ];
 
     return (
-        <div className="w-full max-h-min mx-auto my-8">
+        <div className="w-full  mx-auto my-8">
             <div className="text-center max-h-min mb-8">
                 <h2 className="text-3xl font-bold mb-2">Share your setup with</h2>
                 <p className="text-2xl font-semibold text-gray-700">#FuniroFurniture</p>
             </div>
 
-            <div className="grid grid-cols-9  max-h-min gap-4 auto-rows-auto">
+            <div className="grid  grid-cols-12 gap-2 auto-rows-min">
                 {images.map((image, index) => (
                     <div
                         key={index}
-                        className={`relative max-h-min overflow-hidden group ${image.className} bg-gray-100 rounded-lg`}
+                        className={`relative  overflow-hidden group ${image.className}  rounded-lg`}
                     >
                         <img
                             src={image.src}
                             alt={image.alt}
                             className="  object-cover transition-transform duration-300 group-hover:scale-110"
                         />
-                        <div className="absolute  inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-20 transition-opacity duration-300" />
+                        <div className="absolute  inset-0  bg-opacity-0 group-hover:bg-opacity-20 transition-opacity duration-300" />
                     </div>
                 ))}
             </div>
